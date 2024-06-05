@@ -1,4 +1,4 @@
-BEM VINDO AO MEU PERFIL. 
+Olá, bem vindos ao meu perfil 
 
 ESTOU ACOMPANHANDO AS AULAS DO ALURA.
 
